@@ -40,9 +40,10 @@ Repositorio del grupo X para el proyecto del ramo *Proyecto Inicial (IWG400)* �
 ## 🛠️ Tecnologías y herramientas utilizadas
 
 - Lenguaje(s) de programación:
-  - Python, JavaScript, C++
+  - HTML: Para la pagina web
+  - C++: Para el Arduino y Esp8266
 - Microcontroladores
-  - Arduino MEGA 2560, LILYGO ESP32
+  - Arduino MEGA 2560 y ESP8266
 - Sensores
 
 ---
