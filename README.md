@@ -45,7 +45,11 @@ Repositorio del grupo X para el proyecto del ramo *Proyecto Inicial (IWG400)* �
 - Microcontroladores
   - Arduino MEGA 2560 y ESP8266
 - Sensores
-
+  - M9-7: Sensor Monoxido de Carbono (CO) y Hidrogeno (H).
+  - M9-8: Sensor de Hidrogeno (H).
+  - M9-135: Sensor Calidad del aire detecta amoniaco, oxido nitrogeno, Benceno, Humo, CO2.
+  - BME 280: Sensor de temperatura °c, Presion Atmosferico y Humedad relativa.
+  - M9-2: Sensor de detección de gases conmbustibles.
 ---
 
 ## 🗂️ Estructura del repositorio
