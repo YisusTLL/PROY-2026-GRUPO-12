@@ -92,4 +92,4 @@ Repositorio del grupo X para el proyecto del ramo *Proyecto Inicial (IWG400)* �
 
 ## 📌 Notas adicionales
 
-> *Espacio para dejar cualquier comentario útil, como pendientes, acuerdos del grupo, consideraciones especiales, etc.*
+Debido a la falta de tiempo y a problemas externos que impidieron una mejor organizacion nuestro proyecto se vio limitado y no se llego a concretar al 100% por lo solo se pudo presentar lo que seria la base del robot junto a su movimiento controlado mediante la pagina web que hicimos especialmente para el robot.
