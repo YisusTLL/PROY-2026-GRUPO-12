@@ -74,28 +74,33 @@ Los códigos utilizados por el robot están disponibles en el siguiente reposito
 
 **[Códigos del Robot](https://github.com/baston444/C-digos-del-robot)**
 
-Para instalar y ejecutar los códigos:
+Para instalar y ejecutar los códigos, sigue estos pasos:
 
-1. **Clonar el repositorio:**
+### 1. Clonar el repositorio
 
-   ```bash
-   git clone https://github.com/baston444/C-digos-del-robot.git
-   ```
+```bash
+git clone https://github.com/baston444/C-digos-del-robot.git
+```
 
-2. **Dependencias:**
+### 2. Instalar las dependencias
 
-   Instalar **Arduino IDE 2.x**, la tarjeta **ESP32 by Espressif Systems** y las siguientes librerías:
+Instalar **Arduino IDE 2.x** y la tarjeta **ESP32 by Espressif Systems** desde el Gestor de tarjetas de Arduino IDE.
 
-   * WiFi
-   * WebServer
-   * Wire
-   * Adafruit GFX Library
-   * Adafruit SSD1306
+Además, instalar las siguientes librerías desde el Administrador de Bibliotecas:
 
-3. **Ejecución:**
+* WiFi
+* WebServer
+* Wire
+* Adafruit GFX Library
+* Adafruit SSD1306
 
-   Abrir los archivos `ULTRA_ESP32.ino` y `ULTRA_ARDU.ino` en Arduino IDE, configurar las credenciales de la red WiFi, cargar cada programa en su placa correspondiente (ESP32 y Arduino Mega 2560) y ejecutar el sistema.
+### 3. Ejecutar el proyecto
 
+1. Abrir los archivos `ULTRA_ESP32.ino` y `ULTRA_ARDU.ino` en Arduino IDE.
+2. Configurar las credenciales de la red WiFi en `ULTRA_ESP32.ino`.
+3. Cargar `ULTRA_ESP32.ino` en la placa ESP32.
+4. Cargar `ULTRA_ARDU.ino` en la placa Arduino Mega 2560.
+5. Verificar que ambos dispositivos estén conectados correctamente y ejecutar el sistema.
 
 ---
 
