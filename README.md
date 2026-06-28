@@ -66,15 +66,36 @@ Repositorio del grupo X para el proyecto del ramo *Proyecto Inicial (IWG400)* �
 
 ---
 
-## 🚀 Instrucciones de Instalacion y Uso
+## 🚀 Instrucciones de Instalación y Uso
 
-## Códigos del Robot
+### Códigos del Robot
 
-Los códigos utilizados por el robot están disponibles en el repositorio:
+Los códigos utilizados por el robot están disponibles en el siguiente repositorio:
+
 **[Códigos del Robot](https://github.com/baston444/C-digos-del-robot)**
-1. **Clonar el repositorio:** `git clone ...`
-2. **Dependencias:** Listar qué librerías necesitan (ej: `pip install -r requirements.txt` o librerías de Arduino).
-3. **Ejecución:** Cómo se corre el código principal.
+
+Para instalar y ejecutar los códigos:
+
+1. **Clonar el repositorio:**
+
+   ```bash
+   git clone https://github.com/baston444/C-digos-del-robot.git
+   ```
+
+2. **Dependencias:**
+
+   Instalar **Arduino IDE 2.x**, la tarjeta **ESP32 by Espressif Systems** y las siguientes librerías:
+
+   * WiFi
+   * WebServer
+   * Wire
+   * Adafruit GFX Library
+   * Adafruit SSD1306
+
+3. **Ejecución:**
+
+   Abrir los archivos `ULTRA_ESP32.ino` y `ULTRA_ARDU.ino` en Arduino IDE, configurar las credenciales de la red WiFi, cargar cada programa en su placa correspondiente (ESP32 y Arduino Mega 2560) y ejecutar el sistema.
+
 
 ---
 
