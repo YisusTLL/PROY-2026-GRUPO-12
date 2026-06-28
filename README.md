@@ -108,7 +108,9 @@ Además, instalar las siguientes librerías desde el Administrador de Biblioteca
 
 El diagrama de conexiones del sistema se encuentra en el siguiente archivo:
 
-- 📄 `plano sentinels.pdf`
+- 📄 `plano sentinels`
+  <img width="1515" height="1065" alt="plano sentinels_page-0001" src="https://github.com/user-attachments/assets/6a4ea7d2-bdc3-4294-aa10-a5ece75e64b3" />
+
 
 Este plano muestra la conexión entre:
 
