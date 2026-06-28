@@ -104,10 +104,20 @@ Además, instalar las siguientes librerías desde el Administrador de Biblioteca
 
 ---
 
-## 📐 Diseño del Sistema
-![Diagrama de Conexiones](./assets/diagrama_conexiones.png)
+## 📐 Plano del Circuito
 
-*Explicacion grafica de como es la conexion entre el microcontrolador y los sensores*
+El diagrama de conexiones del sistema se encuentra en el siguiente archivo:
+
+- 📄 `plano sentinels.pdf`
+
+Este plano muestra la conexión entre:
+
+- Arduino Mega 2560
+- ESP32
+- Sensor ultrasónico HC-SR04
+- Sensores MQ
+- Pantalla OLED
+- Alimentación del sistema
 
 ---
 
