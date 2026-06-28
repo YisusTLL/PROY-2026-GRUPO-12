@@ -127,7 +127,8 @@ Este plano muestra la conexión entre:
 
 ## 📅 Cronograma de trabajo
 
-[[Carta Gantt](https://google.com)](https://usmcl-my.sharepoint.com/:x:/r/personal/jgaleas_usm_cl/Documents/Carta%20Gantt.xlsx?d=w419b2eb64bce4d5b9386c1a2a08d7fc1&csf=1&web=1&e=5rILhX)
+<img width="2066" height="673" alt="Carta Gantt" src="https://github.com/user-attachments/assets/93f42431-bfb5-4564-a3ec-6c91d16ecc55" />
+
 
 ---
 
