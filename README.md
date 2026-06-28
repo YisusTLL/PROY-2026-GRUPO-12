@@ -68,7 +68,10 @@ Repositorio del grupo X para el proyecto del ramo *Proyecto Inicial (IWG400)* �
 
 ## 🚀 Instrucciones de Instalacion y Uso
 
+## Códigos del Robot
 
+Los códigos utilizados por el robot están disponibles en el repositorio:
+**[Códigos del Robot](https://github.com/baston444/C-digos-del-robot)**
 1. **Clonar el repositorio:** `git clone ...`
 2. **Dependencias:** Listar qué librerías necesitan (ej: `pip install -r requirements.txt` o librerías de Arduino).
 3. **Ejecución:** Cómo se corre el código principal.
