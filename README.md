@@ -55,15 +55,17 @@ Repositorio del grupo X para el proyecto del ramo *Proyecto Inicial (IWG400)* �
 ## 🗂️ Estructura del repositorio
 
 ```
-/PROY-2026-GRUPOX
-│
-├── docs/               # Documentación general y reportes
-├── src/                # Código fuente del proyecto
-├── tests/              # Casos de prueba
-├── assets/             # Imágenes, diagramas, etc.
-└── README.md           # Este archivo
-```
 
+PROY-2026-GRUPO-12
+│
+├── docs/
+│   └── Carta_Gantt.pdf          # Planificación del proyecto
+├── assets/
+│   └── plano_sentinels.png      # Plano del circuito
+├── Códigos del Robot
+│   └── https://github.com/baston444/C-digos-del-robot                  
+└──README.md                     # Documentación principal
+```
 ---
 
 ## 🚀 Instrucciones de Instalación y Uso
