@@ -133,7 +133,7 @@ Este plano muestra la conexión entre:
 ---
 
 ## 📚 Bibliografía
-Se adjunta video del proyecto.
+Se adjunta video del proyecto. Como grupo decidimos que el video sea completamente privado por lo que no aceptamos que sea publicado.
 https://youtu.be/L_rpvcBJtFM
 
 ---
