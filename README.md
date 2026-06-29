@@ -133,8 +133,8 @@ Este plano muestra la conexión entre:
 ---
 
 ## 📚 Bibliografía
-
-[Enlace](https://google.com)
+Se adjunta video del proyecto.
+https://youtu.be/L_rpvcBJtFM
 
 ---
 
